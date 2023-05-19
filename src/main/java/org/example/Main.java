@@ -1,7 +1,5 @@
 package org.example;
 
-import org.AverageSensor;
-
 public class Main {
     public static void main(String[] args) {
         Sensor kumpula = new TemperatureSensor();
